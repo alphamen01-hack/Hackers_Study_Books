@@ -118,7 +118,7 @@ A curated list of **legendary cybersecurity books** covering social engineering,
 
 ```
 
-# Run Pegasus Pro 
+# Run Hackers Study Books
 
 __Hackers Study Books__ does not need any installation and runs directly using `python3`
 
