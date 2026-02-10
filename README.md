@@ -116,6 +116,8 @@ A curated list of **legendary cybersecurity books** covering social engineering,
 ```text
 🟢 Beginner → 🟡 Intermediate → 🔴 Advanced
 
+```
+
 # Run Pegasus Pro 
 
 __Hackers Study Books__ does not need any installation and runs directly using `python3`
@@ -131,6 +133,7 @@ Open terminal and paste the following commands :
 ```
 https://github.com/alphamen01-hack/Hackers_Study_Books.git
 ```
+
 ```
 cd Hackers_Study_Books/
 ```
