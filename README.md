@@ -237,4 +237,4 @@ Support by following my Instagram page:
 
 ---
 
-© 2025 kutty
+© 2026 kutty
